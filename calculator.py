@@ -1,3 +1,3 @@
-def calculadora (x,y):
-    result=x-y
+def calculator (a,b):
+    result=a+b
     return result
